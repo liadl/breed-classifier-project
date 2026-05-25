@@ -10,7 +10,7 @@ This project uses Deep Learning to classify dog and cat breeds. It features an e
 - **Containerized:** Includes a `Dockerfile` for easy deployment.
 
 ## Preview
-[Pet Breed Classifier UI](Screenshot_2026-05-25_190208.png)
+[Pet Breed Classifier UI](Screenshot%202026-05-25%20190208.png)
 
 ## How to run it
 
